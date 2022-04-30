@@ -4,4 +4,5 @@
 
 ```
 sudo gpasswd -a $USER input
+sudo pacman -S wmctrl xdotool
 ```
